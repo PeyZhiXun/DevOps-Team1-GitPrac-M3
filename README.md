@@ -1,2 +1,2 @@
-Project A
+Week 2 Git Practice
 
