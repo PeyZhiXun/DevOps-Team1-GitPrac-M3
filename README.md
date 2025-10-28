@@ -4,5 +4,5 @@ Week 2 Git Practice
 
 "Hello again. I am here to add in a second line. I am Jovan Tan."
 
-
+"Hi, I am here to give you a meaningful message. Have a great day ahead!"
 
